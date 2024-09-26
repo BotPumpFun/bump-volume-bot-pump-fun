@@ -22,7 +22,7 @@
 
 Our Bump Bot is your secret weapon for making a strong impact. Designed to boost your token's visibility on Pump.fun, it ensures you stand out and attract attention effortlessly.Experience seamless performance and watch your token rise to the top with our reliable Bump Bot.<br>
 <br>
-**Developed in TypeScript, our All in one Bot follows SOLID principles and leverages the latest, most advanced features of Node.js and Solana.**
+**Developed in TypeScript, our Bump Bot follows SOLID principles and leverages the latest, most advanced features of Node.js and Solana.**
 
 ## Key Features
 
